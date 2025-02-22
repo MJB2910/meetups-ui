@@ -61,6 +61,14 @@
       "price": 70,
       "image": "/images/lion-king.jpg",
       "description": "Witness the magic of The Lion King live on Broadway!"
+    },
+    {
+      "id": 7,
+      "name": "movie- Avatar2",
+      "date": "2025-03-29",
+      "price": 25,
+      "image":"images/avatar.png",
+      "description": "Witness the Avatar world in 3D!"
     }
   ],
   "payments": []

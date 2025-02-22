@@ -46,5 +46,18 @@
   },
   "devDependencies": {
     "json-server": "^1.0.0-beta.3"
-  }
+  },
+  "description": "A React-based ticket booking app with GoLang APIs and Couchbase for database storage.",
+  "main": "auth.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJB2910/meetups-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJB2910/meetups-ui/issues"
+  },
+  "homepage": "https://github.com/MJB2910/meetups-ui#readme"
 }
